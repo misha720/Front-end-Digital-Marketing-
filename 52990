@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"><!-- Кодировка -->
+	<title>Макет</title><!-- Заголовок страницы -->
+	<link rel="stylesheet" type="text/css" href="style.css"><!-- Подключение CSS -->
+	<meta name="description" content=""><!-- Описание заголовка --> 
+	<meta name="Keywords" content=""><!-- Ключевые слова страницы -->
+	<meta name="viewport" content="width=device-width"><!-- Масштабирование -->
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="header">
+	<div class="header__top">
+		<div class="header__logo">
+			<h1>KREA.</h1>
+		</div>
+		<div class="header__menu">
+			<div class="header__menu__item">
+				<a href="">Servies</a>
+			</div>
+			<div class="header__menu__item">
+				<a href="">Works</a>
+			</div>
+			<div class="header__menu__item">
+				<a href="">Reference</a>
+			</div>
+			<div class="header__menu__item">
+				<a href="">Contact</a>
+			</div>
+		</div>
+	</div>
+	<div class="header__center">
+		<div class="header__title">
+			<h1>Digital Marketing</h1>
+		</div>
+		<div class="header__subtitle">
+			<h2>Consultacy</h2>
+		</div>
+	</div>
+</div>
+
+<!-- CONTENT -->
+<div class="content">
+	<div class="content__top">
+		<div class="content__top__title">
+			<h1>KREA.</h1>
+		</div>
+		<div class="content__top__subtitle">
+			<h2>Services</h2>
+		</div>
+	</div>
+	<div class="content__center">
+		<div class="content__center__item">
+
+			<div class="content__center__item__logo">
+				<img src="src/services-1.png">
+			</div>
+			<div class="content__center__item__title">
+				<h1>Consultancy</h1>
+			</div>
+			<div class="content__center__item__subtitle">
+				<h2>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam suscipit, reprehenderit sit quis fugiat ut natus recusandae ullam dolorum, a, non maiores doloremque odit magni vero eligendi assumenda. Iste, nobis.</h2>
+			</div>
+
+		</div>
+		<div class="content__center__item">
+
+			<div class="content__center__item__logo">
+				<img src="src/services-2.png">
+			</div>
+			<div class="content__center__item__title">
+				<h1>Mentorship</h1>
+			</div>
+			<div class="content__center__item__subtitle">
+				<h2>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem, similique et. In, eveniet earum veniam rem quia a unde provident labore? Voluptates quaerat ut eligendi rerum! Nisi, autem dicta asperiores!</h2>
+			</div>
+
+		</div>
+		<div class="content__center__item">
+
+			<div class="content__center__item__logo">
+				<img src="src/services-3.png">
+			</div>
+			<div class="content__center__item__title">
+				<h1>Incubatory</h1>
+			</div>
+			<div class="content__center__item__subtitle">
+				<h2>Lorem ipsum dolor sit, amet, consectetur adipisicing elit. Perspiciatis placeat odio eius asperiores error excepturi eaque adipisci exercitationem corporis reiciendis laborum iure sunt deserunt similique, non provident autem sapiente. Alias!</h2>
+			</div>
+
+		</div>
+	</div>
+</div>
+
+</body>
+</html>
